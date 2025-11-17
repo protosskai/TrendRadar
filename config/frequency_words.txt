@@ -111,3 +111,15 @@ ai
 宇宙
 飞船
 航空
+
+c++
+rust
+java
+python
+javascript
+
+监控
+审查
+政治
+舆情
+情报
